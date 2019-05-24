@@ -1,2 +1,3 @@
 ---
-  - src: https://github.com/bgamex/awxtest/tree/master/roles/roleawx 
+  - src: git@github.com:bgamex/awxtest/tree/master/roles/roleawx.git
+    scm: git   
