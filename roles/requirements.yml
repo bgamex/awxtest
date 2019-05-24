@@ -1,3 +1,5 @@
 ---
-  - src: git@github.com:bgamex/awxtest/roleawx.git
-    scm: git   
+#  - src: git@github.com:bgamex/awxtest/roleawx.git
+#    scm: git   
+   - src: https://github.com/bgamex/awxtest 
+     name: roleawx
