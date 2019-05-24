@@ -1,1 +1,2 @@
-- src: https://github.com/bgamex/awxtest/tree/master/roles/roleawx 
+---
+  - src: https://github.com/bgamex/awxtest/tree/master/roles/roleawx 
